@@ -6,7 +6,7 @@ public class ContaBancaria {
     Scanner sc = new Scanner(System.in);
 
     String name = "Alberto Aleixo Patyk";
-    double saldo = 1000;
+    double saldo = 1000.99;
     int op = 0;
 
     // Dados do cliente
