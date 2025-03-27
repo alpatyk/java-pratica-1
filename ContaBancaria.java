@@ -7,7 +7,7 @@ public class ContaBancaria {
 
     String name = "Alberto Aleixo Patyk";
     double saldo = 1000;
-    int op;
+    int op = 0;
 
     // Dados do cliente
     System.out.println("***************************");
